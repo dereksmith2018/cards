@@ -5,12 +5,12 @@ $(document).ready(function){
   var deck = [];
   value.forEach(function)(value){
   };suit.forEach(function)(suit){
-    deck.push(value+ "of" +rank){
+    deck.push(value+ "of" +suit){
 
     });
   }
    deck.forEach(function)(card){};
-   $("#card").
+   $("#card").show(){};
 
 
 
